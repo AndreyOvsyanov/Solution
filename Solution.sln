@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadrUr", "WindowsFormsApp1\QuadrUr.csproj", "{31274638-15D3-4084-B769-D5044BFF0929}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mathing", "Math\Mathing.csproj", "{3283B714-4645-40A6-A5E6-1D19285DC788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT_QU", "UT_QU\UT_QU.csproj", "{C5AAE9F8-3C22-47F7-B9F4-9F2391EAD02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31274638-15D3-4084-B769-D5044BFF0929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31274638-15D3-4084-B769-D5044BFF0929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31274638-15D3-4084-B769-D5044BFF0929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31274638-15D3-4084-B769-D5044BFF0929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3283B714-4645-40A6-A5E6-1D19285DC788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3283B714-4645-40A6-A5E6-1D19285DC788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3283B714-4645-40A6-A5E6-1D19285DC788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3283B714-4645-40A6-A5E6-1D19285DC788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AAE9F8-3C22-47F7-B9F4-9F2391EAD02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AAE9F8-3C22-47F7-B9F4-9F2391EAD02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AAE9F8-3C22-47F7-B9F4-9F2391EAD02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AAE9F8-3C22-47F7-B9F4-9F2391EAD02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02A42B36-D974-458F-B5B9-41A2E83C517F}
+	EndGlobalSection
+EndGlobal
